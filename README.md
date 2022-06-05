@@ -7,4 +7,5 @@ Key Features:-
 
 # Support
 
-• (Click Here)[https://discord.gg/lgnop] To Join
+• [Click Here](https://discord.gg/lgnop) To Join Support Server.
+• KaramveerPlayZ#1337
