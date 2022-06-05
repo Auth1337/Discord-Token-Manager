@@ -1,8 +1,8 @@
 # Discord-Token-Manager
 Key Features:-
-• Avatar Changer, You Can Upload Image And Rename it with image.png
-• Username Changer, Requires Password
-• Bio Changer
+• Avatar Changer, You Can Upload Image And Rename it with image.png\n
+• Username Changer, Requires Password\n
+• Bio Changer\n
 • Password Changer, Requires Password After Changing Pass It Will Save Tokens in new_tokens.txt
 
 # Support
