@@ -762,7 +762,7 @@ async def change_username(token, name, dexterkimakalunduskebaapkichutme):
         print(f"[-] Changed Name, Token: {token[:20]}***************")
       else:
         print(f"[-] Unable To Change Name, Token: {token[:20]}***************")
-        print(await response.text())
+
 async def change_avatar(luli):
   headers = getheaders(luli)
   img = open('image.png', 'rb').read()
@@ -772,7 +772,6 @@ async def change_avatar(luli):
         print(f"[-] Changed Avatar, Token: {luli[:20]}***************")
       else:
         print(f"[-] Unable To Change Avatar, Token: {luli[:20]}***************")
-        print(await loda.text())
 
 async def change_password(token, lund, condom):
   headers = getheaders(token)
